@@ -11,7 +11,7 @@ import re
 train_path = "./aclImdb/train/"
 test_path = "./aclImdb/test/"
 
-# print('Accuracy: %.3f' % clf.score(x_test, y_test))
+# print('Accuracy: %.3f' % classifier.score(x_test, y_test))
 
 only_alnum_pattern = re.compile('([^\s\w]|_)+')
 no_tags_pattern = re.compile('<[^>]*>')
