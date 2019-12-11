@@ -21,4 +21,4 @@ We can also inject a very powerful sklearn module like GridSearchCV, which uses 
 http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 
 ### Results
-![alt tag](https://d36vhvif6yp6yo.cloudfront.net/main/images/github/NLP-results.jpg)
+![alt tag](https://s3.eu-central-1.amazonaws.com/files.supergramm.com/main/images/github/NLP-results.jpg)
